@@ -1,0 +1,8 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Unknown Host</title></head>
+<body bgcolor="white" fgcolor="black"><h1>Unknown Host</h1><hr />
+<font face="Helvetica,Arial"><b>
+Description: Unable to locate the server named "<em>www.vivanda.com.co</em>" --- the server does not have a DNS entry.  Perhaps there is a misspelling in the server name, or the server no longer exists.  Double-check the name and try again.</b></font>
+<hr />
+<!-- default "Unknown Host" response (504) -->
+
+                                                                                                                                                                                                                       </body></html>
